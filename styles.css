@@ -9,13 +9,9 @@ body {
 .header {
     text-align: center;
     font-size: 50px;
-}
-
-.header.main {
-    text-align: center;
     background-color: rgba(220, 255, 255, 0.767);
     padding: 30px;
-    margin: 0px;
+    margin-top: 0px;
 }
 
 .recipe-list {
@@ -29,4 +25,48 @@ body {
     display: inline;
     text-align: center;
     margin: 0px auto;
+}
+
+.home {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+}
+
+.paragraph {
+    text-align: center;
+    font-size: 24px;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: overline;
+
+}
+
+.list {
+    width: 80%;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+.ingredient {
+    display: block;
+    list-style: none;
+    padding: 3px;
+}
+
+.item {
+    padding: 3px;
 }
