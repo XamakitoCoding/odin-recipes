@@ -1,0 +1,32 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    margin: 0px;
+}
+
+.header {
+    text-align: center;
+    font-size: 50px;
+}
+
+.header.main {
+    text-align: center;
+    background-color: rgba(220, 255, 255, 0.767);
+    padding: 30px;
+    margin: 0px;
+}
+
+.recipe-list {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.recipe  {
+    padding: 40px;
+    font-size: 30px;
+    display: inline;
+    text-align: center;
+    margin: 0px auto;
+}
